@@ -2,14 +2,10 @@ import React from 'react'
 import Card from './Card'
 
 function Testimonials(props) {
-    let reviews = props.reviews
+    let reviews = props.reviews;
   return (
     <div>
-       {
-        reviews.map((review)=>
-            <Card review = {review}></Card>
-          )
-       }
+            <Card review = {reviews[0]}></Card>
     </div>
   )
 }
