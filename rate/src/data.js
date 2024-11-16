@@ -1,16 +1,16 @@
 const reviews = [
   {
     id: 1,
-    name: "Pranay Gupta",
+    name: "Laxman Yadav",
     job: "Software Engineer",
-    image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
+    image: "https://i.postimg.cc/dtmkHmTp/photo-6159186688665044291-y.jpg",
     text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
   },
   {
     id: 2,
-    name: "Abir Pal",
-    job: "Graphic Designer",
-    image: "https://aeccc.targettechnology.in/static/media/AbirPal.574a09ad7cb325853b29.jpg",
+    name: "Manish Mourya",
+    job: "Software Engineer",
+    image: "https://i.postimg.cc/cJXwC7cP/photo-6181247925619900526-y.jpg",
     text: "I have been working with this company for several years now, and I have always been impressed with their creativity and attention to detail. They are true professionals who take pride in their work and always go above and beyond to deliver exceptional results.",
   },
   {

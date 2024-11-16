@@ -6,7 +6,7 @@ function Card(props) {
     <div className='flex flex-col md:relative'>
         <div className='absolute top-[-7rem] z-[10] mx-auto'>
             <img
-            className='aspect-sqaure rounded-full w-[140px] h-[140px] z-[25]'
+            className='aspect-sqaure object-cover rounded-full w-[140px] h-[140px] z-[25]'
             src={review.image}/>
             <div className='w-[140px] h-[140px] rounded-full bg-violet-500 absolute top-[-6px] z-[-20] left-[10px] '></div>
         </div>
